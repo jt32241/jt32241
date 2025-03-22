@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jason
-- 👀 I’m interested in C++, Python
+- 👀 I’m interested in a lot of things! Love me some C++, Rust, Go, Python. Trying to figure out this OCaml thing.
 - 📫 jt32241@gmail.com
 
 <!---
